@@ -34,7 +34,11 @@ I now have an application that can help users output a README in no time!
 
 
 ```md
-![alt text](assets/images/screenshot.png)
+![alt text](assets/images/)
+![alt text](assets/images/)
+![alt text](assets/images/)
+![alt text](./assets/images/index)
+
 ```
 
 
